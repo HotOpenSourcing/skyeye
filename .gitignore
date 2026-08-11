@@ -15,4 +15,5 @@ classes
 /.project/
 /.metadata/
 /logs/
-.vscode
+config.bat
+node_modules
